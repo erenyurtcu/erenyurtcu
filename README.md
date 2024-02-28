@@ -16,10 +16,6 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=erenyurtcu&style=flat-square&color=blue" alt=""/>
 </div>
-<p align="center">
-  <strong>hey there</strong>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</p>
 
 ---
 
@@ -55,10 +51,10 @@
    📚 I am a Computer Engineering Student 📚
 </p>
 <p align="center">
-    :computer: I freelance as a Full-Stack Developer. :computer:
+    💻 I freelance as a Full-Stack Developer. 💻
 </p>
 <p align="center">
-    :joystick: When I'm not busy with other tasks, I'm usually cooking up some game projects. :joystick:
+    🕹️ When I'm not busy with other tasks, I'm usually cooking up some game projects 🕹️
 </p>
 
 
