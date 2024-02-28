@@ -50,7 +50,7 @@
     :man_technologist: About Me :man_technologist:
 </p>
 <p align="center">
-   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGt1d2ZzMzlqbXF0aXdrcWZ2ZTRqeHZzeHFjZXdvbXAyaWZwcmVnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> I am a Computer Engineering Student <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGt1d2ZzMzlqbXF0aXdrcWZ2ZTRqeHZzeHFjZXdvbXAyaWZwcmVnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30">
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc282OWt6d21rYW5uM3ptbmYyejJtYjR5azVvbzlxZHFvc2Nib2NzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" width="30"> I am a Computer Engineering Student <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc282OWt6d21rYW5uM3ptbmYyejJtYjR5azVvbzlxZHFvc2Nib2NzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" width="30">
 </p>
 <p align="center">
     :computer: I freelance as a Full-Stack Developer. :computer:
