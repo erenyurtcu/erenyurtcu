@@ -51,11 +51,9 @@
 I am a Computer Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m working freelance as a Full-Stack Developer
 
-- :seedling: 
+- :seedling: I freelance as a Full-Stack Developer.
 
-- :zap: In my free time, I solve problems
-
-- :mailbox:How to reach me: [![Email Badge](https://img.shields.io/badge/--blue?style=flat&logo=Linkedin&logoColor=white)]()
+- :zap: When I'm not busy with other tasks, I'm usually cooking up some game projects.
 
 
 
