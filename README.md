@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<style>
+  .badges{
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    justify-content:center;
+  }
+</style>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWpxbndiM3dnZ2J6MjNtamwyY2txeXhlMDR0eGxzZm1hMThoNm54byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xBTSwCTFkgfcdTjHMz/giphy.gif" width="100"/>
 </div>
