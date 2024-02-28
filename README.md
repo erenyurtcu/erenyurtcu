@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWpxbndiM3dnZ2J6MjNtamwyY2txeXhlMDR0eGxzZm1hMThoNm54byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xBTSwCTFkgfcdTjHMz/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges"  align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -15,7 +15,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=erenyurtcu&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=erenyurtcu&style=flat-square&color=blue" alt="" align="center"/>
 
 <h1>
   hey there
