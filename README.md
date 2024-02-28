@@ -55,7 +55,7 @@ I am a Computer Engineering Student <img src="https://media.giphy.com/media/WUlp
 
 - :zap: In my free time, I solve problems
 
-- :mailbox:How to reach me: [![Email Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]()
+- :mailbox:How to reach me: [![Email Badge](https://img.shields.io/badge/-eren-blue?style=flat&logo=Linkedin&logoColor=white)]()
 
 
 
