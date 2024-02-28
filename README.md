@@ -1,14 +1,4 @@
 ### Hi there 👋
-
-<style>
-  .badges{
-    margin-left:auto;
-    margin-right:auto;
-    text-align:center;
-    justify-content:center;
-  }
-</style>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWpxbndiM3dnZ2J6MjNtamwyY2txeXhlMDR0eGxzZm1hMThoNm54byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xBTSwCTFkgfcdTjHMz/giphy.gif" width="100"/>
 </div>
@@ -24,6 +14,9 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+
 
 <!--
 **erenyurtcu/erenyurtcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
