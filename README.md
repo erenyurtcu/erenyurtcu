@@ -46,14 +46,13 @@
 
 ---
 
-### :woman_technologist: About Me :
+:man_technologist: About Me :
 
 I am a Computer Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: I’m working freelance as a Full-Stack Developer
 
-- :seedling: I freelance as a Full-Stack Developer.
+:computer: I freelance as a Full-Stack Developer.
 
-- :zap: When I'm not busy with other tasks, I'm usually cooking up some game projects.
+:joystick: When I'm not busy with other tasks, I'm usually cooking up some game projects.
 
 
 
