@@ -20,13 +20,16 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 ---
+
 <p align="center"><strong>Stats</strong></p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenyurtcu&layout=compact&theme=vision-friendly-dark" alt="Top Langs">
   </a>
 </p>
+
 ---
 
 <p align="center"><strong>Languages and Frameworks</strong></p>
