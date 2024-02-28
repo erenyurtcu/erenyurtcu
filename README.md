@@ -52,7 +52,7 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJzZ3pzM3JlbTB0a2tybXRnZ3JnMzhubTgxNTVrczIwdDdwa2p1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IauL6LvGNlT3ffhcqq/giphy.gif" width="20">
 </p>
 <p align="center">
-   I am a Computer Engineering Student <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJzZ3pzM3JlbTB0a2tybXRnZ3JnMzhubTgxNTVrczIwdDdwa2p1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IauL6LvGNlT3ffhcqq/giphy.gif" width="30">
+   📚 I am a Computer Engineering Student 📚
 </p>
 <p align="center">
     :computer: I freelance as a Full-Stack Developer. :computer:
