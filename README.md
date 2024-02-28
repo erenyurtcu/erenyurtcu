@@ -50,7 +50,7 @@
     :man_technologist: About Me :man_technologist:
 </p>
 <p align="center">
-    I am a Computer Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    I am a Computer Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="transform: scaleX(-1);">
 </p>
 <p align="center">
     :computer: I freelance as a Full-Stack Developer.
