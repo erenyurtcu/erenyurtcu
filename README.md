@@ -46,13 +46,17 @@
 
 ---
 
-:man_technologist: About Me :
+:man_technologist: About Me:
 
-I am a Computer Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-:computer: I freelance as a Full-Stack Developer.
-
-:joystick: When I'm not busy with other tasks, I'm usually cooking up some game projects.
+<p align="center">
+    I am a Computer Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</p>
+<p align="center">
+    :computer: I freelance as a Full-Stack Developer.
+</p>
+<p align="center">
+    :joystick: When I'm not busy with other tasks, I'm usually cooking up some game projects.
+</p>
 
 
 
