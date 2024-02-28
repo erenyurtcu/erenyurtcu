@@ -47,7 +47,7 @@
 ---
 
 <p align="center">
-    :man_technologist: **About Me:**
+    :man_technologist: About Me: :man_technologist:
 </p>
 <p align="center">
     I am a Computer Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
