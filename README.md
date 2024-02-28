@@ -47,7 +47,9 @@
 ---
 
 <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJzZ3pzM3JlbTB0a2tybXRnZ3JnMzhubTgxNTVrczIwdDdwa2p1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IauL6LvGNlT3ffhcqq/giphy.gif" width="30">  About Me <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJzZ3pzM3JlbTB0a2tybXRnZ3JnMzhubTgxNTVrczIwdDdwa2p1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IauL6LvGNlT3ffhcqq/giphy.gif" width="30"> 
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJzZ3pzM3JlbTB0a2tybXRnZ3JnMzhubTgxNTVrczIwdDdwa2p1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IauL6LvGNlT3ffhcqq/giphy.gif" width="30">
+    <span style="margin-bottom: 10px;">About Me</span>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJzZ3pzM3JlbTB0a2tybXRnZ3JnMzhubTgxNTVrczIwdDdwa2p1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IauL6LvGNlT3ffhcqq/giphy.gif" width="30">
 </p>
 <p align="center">
    I am a Computer Engineering Student <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJzZ3pzM3JlbTB0a2tybXRnZ3JnMzhubTgxNTVrczIwdDdwa2p1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IauL6LvGNlT3ffhcqq/giphy.gif" width="30">
