@@ -55,6 +55,6 @@
     💻 I freelance as a Full-Stack Developer. 💻
 </p>
 <p align="center">
-    🤖When I'm not busy with other tasks, I'm usually working on AI projects.🤖
+    🤖 When I'm not busy with other tasks, I'm usually working on AI projects. 🤖
 </p>
 
