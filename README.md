@@ -58,3 +58,5 @@
     🤖 When I'm not busy with other tasks, I'm usually working on AI projects. 🤖
 </p>
 
+![snake gif](https://github.com/erenyurtcu/erenyurtcu/blob/output/github-contribution-grid-snake.gif)
+
