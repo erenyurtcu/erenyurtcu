@@ -17,6 +17,8 @@
 <img src="https://komarev.com/ghpvc/?username=erenyurtcu&style=flat-square&color=blue" alt=""/>
 </div>
 
+---
+
 <div align="center">
   <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenyurtcu&layout=compact&langs_count=6&theme=vision-friendly-dark" height="150"/>
   <a href="https://git.io/streak-stats">
