@@ -6,15 +6,15 @@
   <a href="https://www.linkedin.com/in/eren-y-817298220/"  target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="mailto:ierenyurtcu@gmail.com">
+      <img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
   <a href="https://www.instagram.com/erenyurtcu"  target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://github.com/erenyurtcu">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-  </a>
 </div>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=erenyurtcu&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=erenyurtcu&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
