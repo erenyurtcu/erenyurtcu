@@ -24,6 +24,8 @@
   </a>
 </div>
 
+---
+
 <p align="center"><strong>Languages and Frameworks</strong></p>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
