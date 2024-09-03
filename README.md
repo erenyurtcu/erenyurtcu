@@ -6,7 +6,10 @@
   <a href="https://www.linkedin.com/in/eren-y-817298220/"  target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:ierenyurtcu@gmail.com">
+  <a href="https://www.yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+  </a>
+  <a href="mailto:erenyurtcucontact@gmail.com">
       <img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://www.instagram.com/erenyurtcu"  target="_blank">
