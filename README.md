@@ -20,7 +20,7 @@
 ---
 
 <div align="center">
-  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenyurtcu&layout=compact&langs_count=8&theme=vision-friendly-dark" height="150"/>
+  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenyurtcu&layout=compact&langs_count=6&theme=vision-friendly-dark" height="150"/>
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=erenyurtcu&theme=vision-friendly-dark" alt="GitHub Streak" height="150">
   </a>
