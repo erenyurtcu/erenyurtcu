@@ -50,8 +50,6 @@
 <p align="center">
    📚 I am a Computer Engineering Student 📚
 </p>
-<p align="center">
-    💻 I freelance as a Full-Stack Developer. 💻
 </p>
 <p align="center">
     🤖 When I'm not busy with other tasks, I'm usually working on AI projects. 🤖
