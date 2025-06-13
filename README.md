@@ -42,8 +42,6 @@
 
 ---
 
-![](https://github-profile-trophy.vercel.app/?username=erenyurtcu&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
-
 <p align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJzZ3pzM3JlbTB0a2tybXRnZ3JnMzhubTgxNTVrczIwdDdwa2p1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IauL6LvGNlT3ffhcqq/giphy.gif" width="20">
     About Me
