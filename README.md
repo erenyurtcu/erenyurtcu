@@ -49,7 +49,6 @@
 <p align="center">
    📚 I am a Computer Engineering Student 📚
 </p>
-</p>
 <p align="center">
     🤖 When I'm not busy with other tasks, I'm usually working on AI projects. 🤖
 </p>
